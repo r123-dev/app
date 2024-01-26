@@ -1,0 +1,21 @@
+{
+  "name": "headout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js",
+    "build": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "build-scripts": "^2.1.1",
+    "express": "^4.18.2",
+    "webpack": "^5.90.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
